@@ -1,0 +1,9 @@
+{
+  "name": "@thomaslee224455/thomastea",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@thomaslee224455",
+  "repository": "https://github.com/thomaslee224455/thomastea.git",
+  "license": "ISC"
+}
